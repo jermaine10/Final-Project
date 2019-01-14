@@ -1,0 +1,4 @@
+This folder must exist in both web and android as well as here. Do NOT rename the folder.
+Do not run client directly but instead call method with the object defined as needed, see the testingclient.java for an example.
+SoekctCmd holds the various parameters that must exist before you can use, only basic login ones currently exist./ Create more as needed.
+SocketCmd.java MUST match that of the on server side. So if you change it in web/android then also change it on server.

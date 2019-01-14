@@ -1,0 +1,4 @@
+RideABikeServer.java must be running for sockets to work.
+RideABikeProtocol handles the messages. Currently set to testing, Control.java call is commented out
+Depending on the command a switch case will be selected and there put in what method you wish to call in Control.java
+Use socketTesting.java to see if things work before using database.
